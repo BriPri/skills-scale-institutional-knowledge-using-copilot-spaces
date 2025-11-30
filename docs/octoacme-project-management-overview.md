@@ -14,11 +14,17 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
+- Project Sponsor: provides strategic direction, resources, and executive-level support.
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
+- Business Analyst: gathers requirements and bridges stakeholders and technical teams.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA Lead: owns quality assurance, testing strategy, and release readiness.
+- Change Manager: oversees change control and stakeholder alignment for changes.
+- Communications Coordinator: manages project communications and stakeholder updates.
 - Stakeholders: provide inputs and approvals.
+
+For detailed role descriptions, see [Roles & Personas](octoacme-roles-and-personas.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
@@ -44,3 +50,5 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- Use the [RACI Matrix Template](octoacme-raci-matrix-template.md) to clarify role responsibilities.
+- Use the [Project Initiation Role Checklist](octoacme-project-initiation-role-checklist.md) to ensure all roles complete their initiation tasks.

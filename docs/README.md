@@ -20,6 +20,8 @@ Welcome to OctoAcme’s project management documentation. This README summarizes
 - octoacme-release-and-deployment.md — Release & Deployment Guide
 - octoacme-retrospective-and-continuous-improvement.md — Retrospective & Continuous Improvement
 - octoacme-roles-and-personas.md — Roles & Personas
+- octoacme-raci-matrix-template.md — RACI Matrix Template
+- octoacme-project-initiation-role-checklist.md — Project Initiation Role Checklist
 
 (If any linked document is missing, create a corresponding markdown file in this docs/ folder following the filenames above.)
 
